@@ -9,9 +9,9 @@
   "author": "Daniel Maslowski",
   "license": "UNLICENSED",
   "devDependencies": {
-    "babel-jest": "^19.0.0",
+    "babel-jest": "^20.0.3",
     "babel-preset-es2015": "^6.24.1",
-    "jest-cli": "^19.0.2",
+    "jest-cli": "^20.0.4",
     "jest-meteor-stubs": "git+https://github.com/orangecms/jest-meteor-stubs.git"
   }
 }
