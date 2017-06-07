@@ -4,7 +4,8 @@
   "description": "Demo for using stubs for Meteor in Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest -c .jestrc"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "Daniel Maslowski",
   "license": "UNLICENSED",
